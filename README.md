@@ -143,7 +143,6 @@ data class Person(val name: String, var age: Int = 20)
 ```
 
 TODO: ejemplo de  métodos get() y set() en Kotlin.
-```
 
 ### Herencia e interfaces
 
